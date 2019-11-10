@@ -1,0 +1,2 @@
+# DelegateTest
+使用delegate和event进行winform线程之间通信
